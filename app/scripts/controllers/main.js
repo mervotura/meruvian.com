@@ -16,27 +16,43 @@ angular.module('hoqiiApp')
     		{
     			'image': 'images/bg1.jpg',
     			'text': 'title',
-    			'title': 'MIP',
-    			'description': 'MIP adalah Platform Konsep, yang membangun dari proyek-proyek kami, menjadi platform solusi',
-    			'faClass': 'fa-file-excel-o',
-                'link': '#products'
+    			'title': 'MIP[ed]',
+    			'description': 'MIP[ed] adalah platform yang terintegrasi untuk membuat aplikasi.',
+    			'faClass': 'icon-iconmonstr-brick',
+                'link': '#mip-ed'
     		},
     		{
     			'image': 'images/bg2.jpg',
     			'text': 'title',
-    			'title': 'Midas',
-    			'description': 'Pengembangan aplikasi bebasis dekstop.',
-    			'faClass': 'fa fa-desktop',
-                'link': '#products'
+    			'title': 'MIP[ion]',
+    			'description': 'MIP[ion] adalah platform integrasi terpadu yang dapat mengintegrasikan sistem apapun dari / ke sistem apapun.',
+    			'faClass': 'icon-iconmonstr-sitemap',
+                'link': '#mip-ion'
     		},
     		{
     			'image': 'images/bg3.jpg',
     			'text': 'title',
-    			'title': 'Yama',
-    			'description': 'Intregasi satu atau lebih framework menjadi sebuah platform.',
-    			'faClass': 'fa-folder-o',
-                'link': '#products'
-    		}
+    			'title': 'MIP[iot]',
+    			'description': 'Android Platform, Stand Alone, Cloud Based.',
+    			'faClass': 'icon-iconmonstr-tablet',
+                'link': '#mip-iot'
+    		},
+            {
+                'image': 'images/bg4.jpg',
+                'text': 'title',
+                'title': 'MIP[db]',
+                'description': 'Big Data Platform, Hadoop Based Platform, Graph Based Platform(Neo4j).',
+                'faClass': 'icon-iconmonstr-cloud',
+                'link': '#mip-db'
+            },
+            {
+                'image': 'images/bg5.jpg',
+                'text': 'title',
+                'title': 'MIP[id]',
+                'description': 'Layanan terpadu yang terdiri dari DISC, Resume Builder dan OAuth2.',
+                'faClass': 'icon-iconmonstr-idcard',
+                'link': '#mip-id'
+            }
     	]
     };
 
